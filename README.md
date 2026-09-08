@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 24 |
+| 44 | 24 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [Uncategorized](#uncategorized) (8)
+- [Uncategorized](#uncategorized) (9)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (10)
@@ -58,6 +58,7 @@
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.java) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.java) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
+| 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.java) |
 
 ### binary search
 
